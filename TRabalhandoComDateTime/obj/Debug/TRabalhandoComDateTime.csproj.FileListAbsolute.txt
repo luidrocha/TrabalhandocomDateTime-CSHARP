@@ -1,0 +1,7 @@
+D:\wp_VS\TRabalhandoComDateTime\TRabalhandoComDateTime\bin\Debug\TRabalhandoComDateTime.exe.config
+D:\wp_VS\TRabalhandoComDateTime\TRabalhandoComDateTime\bin\Debug\TRabalhandoComDateTime.exe
+D:\wp_VS\TRabalhandoComDateTime\TRabalhandoComDateTime\bin\Debug\TRabalhandoComDateTime.pdb
+D:\wp_VS\TRabalhandoComDateTime\TRabalhandoComDateTime\obj\Debug\TRabalhandoComDateTime.csproj.AssemblyReference.cache
+D:\wp_VS\TRabalhandoComDateTime\TRabalhandoComDateTime\obj\Debug\TRabalhandoComDateTime.csproj.CoreCompileInputs.cache
+D:\wp_VS\TRabalhandoComDateTime\TRabalhandoComDateTime\obj\Debug\TRabalhandoComDateTime.exe
+D:\wp_VS\TRabalhandoComDateTime\TRabalhandoComDateTime\obj\Debug\TRabalhandoComDateTime.pdb
